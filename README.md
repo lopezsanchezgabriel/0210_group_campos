@@ -20,4 +20,3 @@ La carpeta *src* contiene los archivos:
 
 * **Gabriel López Sánchez**
     [Github](https://github.com/lopezsanchezgabriel)
-    [Correo](glopezsanchez19@iespuntadelverde.es)
