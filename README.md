@@ -5,8 +5,8 @@ las etapas **Match** y **Group**.
 
 La carpeta *src* contiene los archivos:
     
-    -**data.js**: varios documentos para insertar en la colección de nuestra base de datos.
-    -**aggregate.js**: la sentencia para agrupar los documentos.
+    -data.js: varios documentos para insertar en la colección de nuestra base de datos.
+    -aggregate.js: la sentencia para agrupar los documentos.
 
 
 ## Construido con 
